@@ -3,3 +3,13 @@ D:\git\SampleWebDriverTest\SampleWebDriverTest\bin\Debug\SampleWebDriverTest.pdb
 D:\git\SampleWebDriverTest\SampleWebDriverTest\obj\Debug\SampleWebDriverTest.csprojResolveAssemblyReference.cache
 D:\git\SampleWebDriverTest\SampleWebDriverTest\obj\Debug\SampleWebDriverTest.dll
 D:\git\SampleWebDriverTest\SampleWebDriverTest\obj\Debug\SampleWebDriverTest.pdb
+d:\git\samples\.net\SampleWebDriverTest\SampleWebDriverTest\bin\Debug\SampleWebDriverTest.dll
+d:\git\samples\.net\SampleWebDriverTest\SampleWebDriverTest\bin\Debug\SampleWebDriverTest.pdb
+d:\git\samples\.net\SampleWebDriverTest\SampleWebDriverTest\bin\Debug\nunit.framework.dll
+d:\git\samples\.net\SampleWebDriverTest\SampleWebDriverTest\bin\Debug\WebDriver.dll
+d:\git\samples\.net\SampleWebDriverTest\SampleWebDriverTest\bin\Debug\nunit.framework.pdb
+d:\git\samples\.net\SampleWebDriverTest\SampleWebDriverTest\bin\Debug\nunit.framework.xml
+d:\git\samples\.net\SampleWebDriverTest\SampleWebDriverTest\bin\Debug\WebDriver.xml
+d:\git\samples\.net\SampleWebDriverTest\SampleWebDriverTest\obj\Debug\SampleWebDriverTest.csprojResolveAssemblyReference.cache
+d:\git\samples\.net\SampleWebDriverTest\SampleWebDriverTest\obj\Debug\SampleWebDriverTest.dll
+d:\git\samples\.net\SampleWebDriverTest\SampleWebDriverTest\obj\Debug\SampleWebDriverTest.pdb
